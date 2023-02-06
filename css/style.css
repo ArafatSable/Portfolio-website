@@ -6,15 +6,14 @@
 
 /* "start navigation" */
 .hearder_area .main-menu .navbar .navbar-brand {
-    padding: 0 2rem 0 5rem;
-    
+    padding: 0 1rem 0 3rem;
 }
 
-.hearder_area .main-menu .navbar{
-    padding: -2rem 20rem;
+.hearder_area .main-menu .navbar {
+    padding: 1rem 0rem;
     background: white;
-    box-shadow: var(--box-shadow);
 }
+
 
 .hearder_area .main-menu .nav-item .nav-link {
     font: normal 500 20px / 2px var(--roboto);
